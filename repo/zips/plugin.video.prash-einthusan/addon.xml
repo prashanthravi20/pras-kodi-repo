@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.prash-einthusan" name="Prash Einthusan" version="1.0.0" provider-name="prashanthravi20">
+    <extension point="xbmc.addon.repository" name="Example Repository">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/prashanthravi20/pras-kodi-repo/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/prashanthravi20/pras-kodi-repo/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/prashanthravi20/pras-kodi-repo/master/repo/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Prash Einthusan</summary>
+        <description>Prash Einthusan Video Addon</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
